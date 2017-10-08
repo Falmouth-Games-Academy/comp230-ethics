@@ -1,4 +1,4 @@
-## Essay Ideas
+# Essay Ideas
 
 Micro-transactions
 
@@ -8,6 +8,6 @@ religion
 
 violence and age ratings
 
-If ethics truly differ depending on each persons views, how do you create a set of ethics/rules when programming advanced ai
-for example the car scenario where it has to choose between hitting two different sets of people
-how do you pick that
+## If ethics truly differ depending on each persons views, how do you create a set of ethics/rules when programming advanced ai?
+
+## References (12)
