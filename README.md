@@ -14,4 +14,6 @@ violence and age ratings
 
 ## References (12)
 
-[ethics](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=276772&CFID=993262325&CFTOKEN=23851205)
+[Software engineering code of ethics and professional practice](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=276772&CFID=993262325&CFTOKEN=23851205)
+
+[Rethinking unsaid information: jokes and ideology](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1940770&CFID=993262325&CFTOKEN=23851205)
