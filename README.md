@@ -11,6 +11,7 @@ religion
 violence and age ratings
 
 ## If ethics truly differ depending on each persons views, how do you create a set of ethics/rules when programming advanced ai?
+Artificial Intelligence is growing rapidly and soon we will rely on it for everthing. Self aware AI is a reality and we are starting to create robots that you could not distinguish from real humans. I can see many benefits of this while at the same time if we are not smart it could easily be the death of us. Both Bill Gates and Elon Musk, two of top people in the field, have both gone on record saying "AI is a fundamental risk to the existence of human civilization". I'd like to explore these ideals and try to determine methods of preventing this from happening.
 
 ## References (12)
 
